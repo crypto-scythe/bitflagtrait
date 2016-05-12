@@ -1,0 +1,27 @@
+{
+  "name": "crypto_scythe/bitflagtrait",
+  "description": "Trait for simple setting / getting bitflags",
+  "version": "1.0.0",
+  "keywords": [
+    "php",
+    "pattern",
+    "trait",
+    "bitflag"
+  ],
+  "homepage": "https://github.com/crypto-scythe/bitflagtrait",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Chris Fasel",
+      "email": "crypto.scythe@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
